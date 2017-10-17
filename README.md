@@ -1,7 +1,7 @@
-# 这是一个基于WSGI协议实现的小型web服务器及web框架demo
+## 这是一个基于WSGI协议实现的小型web服务器及web框架demo
 
-# 以 python3 myserver.py 8001 webFrame:app 方式运行服务器；需要安转pymysql模块才能连接数据库；
-# 运行后，可以用浏览器发送请求http://localhost:8001/index.html
+	以 python3 myserver.py 8001 webFrame:app 方式运行服务器；需要安转pymysql模块才能连接数据库；
+	运行后，可以用浏览器发送请求http://localhost:8001/index.html
 
 <h3>WSGI简介</h3>
 
